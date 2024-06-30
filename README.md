@@ -1,4 +1,4 @@
-# foodmine
+# FOODMINE
 
 ## Descripción
 
